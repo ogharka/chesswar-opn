@@ -40,5 +40,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "resolutions": {
+    "ajv": "^8.0.0"
+  },
+  "overrides": {
+    "ajv": "^8.0.0"
   }
 }
