@@ -1,0 +1,44 @@
+{
+  "name": "chesswar",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@farcaster/frame-sdk": "^0.2.0",
+    "chess.js": "^1.0.0",
+    "ethers": "^6.9.0",
+    "react": "^18.2.0",
+    "react-chessboard": "^4.3.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^6.20.0",
+    "react-scripts": "5.0.1",
+    "socket.io-client": "^4.8.3",
+    "zustand": "^4.4.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ],
+    "rules": {
+      "react-hooks/exhaustive-deps": "warn",
+      "no-unused-vars": "warn"
+    }
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

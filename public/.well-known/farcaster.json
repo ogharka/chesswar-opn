@@ -1,0 +1,16 @@
+{
+  "accountAssociation": {
+    "header": "placeholder",
+    "payload": "placeholder",
+    "signature": "placeholder"
+  },
+  "frame": {
+    "version": "1",
+    "name": "ChessWar",
+    "iconUrl": "https://chesswar.xyz/logo192.png",
+    "homeUrl": "https://chesswar.xyz",
+    "splashImageUrl": "https://chesswar.xyz/logo192.png",
+    "splashBackgroundColor": "#0052FF",
+    "webhookUrl": "https://chesswar.xyz/api/webhook"
+  }
+}
